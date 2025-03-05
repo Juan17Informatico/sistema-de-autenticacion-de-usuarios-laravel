@@ -28,8 +28,8 @@
     ```
 
 ## Funcionalidades
-✅ Registro e inicio de sesión con Breeze
-✅ Soporte para Blade y modo oscuro
-✅ Recuperación de contraseña
-✅ Middleware de autenticación
-✅ Pruebas con PHPUnit
+- ✅ Registro e inicio de sesión con Breeze
+- ✅ Soporte para Blade y modo oscuro
+- ✅ Recuperación de contraseña
+- ✅ Middleware de autenticación
+- ✅ Pruebas con PHPUnit
